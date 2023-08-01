@@ -1,3 +1,11 @@
 {
-  "editor.tabCompletion": "off"
+  "editor.tabCompletion": "on",
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.useInlineCompletions": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.preferences": {},
+  "prettier.printWidth": 80
 }
